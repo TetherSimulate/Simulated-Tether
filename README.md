@@ -1,6 +1,6 @@
 # Tether Simulate
 
-![Tether Simulate Logo](img/TetherSimulate%20Logo.svg)
+![Tether Simulate Logo](TetherSimulate%20Logo.svg)
 
 ## Simulated Tether (USDT) Ecosystem
 
@@ -85,8 +85,8 @@ As a simulated asset, this token integrates with testnet liquidity pools and moc
 15. Conclusion
 
 **Download Options:**
-- [ERC-20 Token Whitepaper](file/ERC-20%20Token%20Whitepaper.pdf) (120 KB)
-- [BEP-20 Token Whitepaper](file/BEP-20%20Token%20Whitepaper.pdf) (120 KB)
+- [ERC-20 Token Whitepaper](ERC-20%20Token%20Whitepaper.pdf) (120 KB)
+- [BEP-20 Token Whitepaper](BEP-20%20Token%20Whitepaper.pdf) (120 KB)
 
 ## Contact Us
 
