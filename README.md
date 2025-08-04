@@ -1,6 +1,6 @@
 # Tether Simulate
 
-![Tether Simulate Logo](TetherSimulate%20Logo.svg)
+![Tether Simulate Logo](TetherSimulate%20Logo.svg){: width="100" height="100"}
 
 ## Simulated Tether (USDT) Ecosystem
 
@@ -91,7 +91,7 @@ As a simulated asset, this token integrates with testnet liquidity pools and moc
 ## Contact Us
 
 **Official Channels:**
-- GitHub: [github.com/TetherSimulate](https://github.com/TetherSimulate)
+- Website: [www.tethersimulate.com](https://tethersimulate.com/)
 - Email: [Support@TetherSimulate.com](mailto:Support@TetherSimulate.com)
 - Telegram: [t.me/TetherSimulate](https://t.me/TetherSimulate)
 
