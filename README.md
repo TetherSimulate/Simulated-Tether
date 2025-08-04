@@ -1,7 +1,7 @@
 # Tether Simulate
 
 <p align="center">
-  <img src="TetherSimulate%20Logo.svg" width="100">
+  <img src="TetherSimulate%20Logo.svg" width="100" align=Left>
 </p>
 
 ## Simulated Tether (USDT) Ecosystem
