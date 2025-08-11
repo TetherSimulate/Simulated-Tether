@@ -91,7 +91,7 @@ As a simulated asset, this token integrates with testnet liquidity pools and moc
 **Download Options:**
 - [ERC-20 Token Whitepaper](ERC-20%20Token%20Whitepaper.pdf) (120 KB)
 - [BEP-20 Token Whitepaper](BEP-20%20Token%20Whitepaper.pdf) (120 KB)
-- [TRC-20 Token Whitepaper](BEP-20%20Token%20Whitepaper.pdf) (120 KB)
+- [TRC-20 Token Whitepaper](TRC-20%20Token%20Whitepaper.pdf) (120 KB)
 
 
 ## Contact Us
