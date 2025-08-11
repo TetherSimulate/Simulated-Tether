@@ -14,7 +14,7 @@ This simulated research token serves as an advanced educational platform, meticu
 This simulated token is designed for research and testing purposes, with algorithmically controlled stability mechanisms to mimic real-world market behaviors. Unlike traditional stablecoins, it does not maintain a fixed peg, allowing users to study volatility patterns and economic models in a controlled environment.
 
 ### Global Reach
-Deployed on both BNB Chain and Ethereum, this experimental token enables cross-chain simulations for educational use cases.
+Deployed on BNB Chain, Ethereum and Tron, this experimental token enables cross-chain simulations for educational use cases.
 
 ### Liquidity
 As a simulated asset, this token integrates with testnet liquidity pools and mock DEX environments to demonstrate trading strategies.
@@ -22,7 +22,7 @@ As a simulated asset, this token integrates with testnet liquidity pools and moc
 ## Roadmap
 
 ### Step 1: Initial Launch (Completed)
-- Deployed on BSC (BEP-20) and Ethereum (ERC-20)
+- Deployed on BSC (BEP-20) and Ethereum (ERC-20) and TRON (TRC-20)
 - 10 billion tokens minted with fixed total supply
 - Open-source code published on GitHub
 
@@ -51,11 +51,13 @@ As a simulated asset, this token integrates with testnet liquidity pools and moc
 ### Blockchain Networks
 - Ethereum Mainnet (ERC-20)
 - Binance Smart Chain (BEP-20)
-- TRON Network (Coming Soon)
+- TRON Network (TRC-20)
 
 **Contract Links:**
 - [View on EtherScan](https://etherscan.io/address/0x812ceb11222ce8bc6bd0ef27017299e442dd85e6)
 - [View on BscScan](https://bscscan.com/address/0x2cd01e6af70411cbb28ef6ca333ea65c0796de03)
+- [View on BscScan](https://tronscan.org/#/contract/TGFANbTCJwLnynvuHFHu1ZzTrH8agS4uTy)
+
 
 ### Contract Features
 - 0.1% Transaction Fee
@@ -89,6 +91,8 @@ As a simulated asset, this token integrates with testnet liquidity pools and moc
 **Download Options:**
 - [ERC-20 Token Whitepaper](ERC-20%20Token%20Whitepaper.pdf) (120 KB)
 - [BEP-20 Token Whitepaper](BEP-20%20Token%20Whitepaper.pdf) (120 KB)
+- [TRC-20 Token Whitepaper](BEP-20%20Token%20Whitepaper.pdf) (120 KB)
+
 
 ## Contact Us
 
