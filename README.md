@@ -55,7 +55,7 @@ As a simulated asset, this token integrates with testnet liquidity pools and moc
 
 **Contract Links:**
 - [View on EtherScan](https://etherscan.io/address/0x812ceb11222ce8bc6bd0ef27017299e442dd85e6)
-- [View on BscScan](https://bscscan.com/address/0x2cd01e6af70411cbb28ef6ca333ea65c0796de03)
+- [View on BscScan](https://bscscan.com/address/0x2e2a5FdD8C6858a77299cB89774A953A8d303238)
 - [View on TronScan](https://tronscan.org/#/contract/TGFANbTCJwLnynvuHFHu1ZzTrH8agS4uTy)
 
 
