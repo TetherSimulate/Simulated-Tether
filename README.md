@@ -99,7 +99,7 @@ As a simulated asset, this token integrates with testnet liquidity pools and moc
 **Official Channels:**
 - Website: [www.tethersimulate.com](https://tethersimulate.com/)
 - Email: [Support@TetherSimulate.com](mailto:Support@TetherSimulate.com)
-- X (Twitter): [X.com/TetherSimulate](https://X.com/TetherSimulate)
+- X (Twitter): [X.com/Tether2959](https://X.com/tether2959)
 - Telegram: [t.me/TetherSimulate](https://t.me/TetherSimulate)
 
 ---
